@@ -11,7 +11,7 @@ def argue(argument)
 end
 
 def greeting(name, language)
-  puts "Hello, #{name}! Good luck with #{language}."  
+  puts "Hello, #{name}! Good luck with #{language}."
 end
 
 def return_a_value
